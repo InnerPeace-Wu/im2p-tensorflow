@@ -1,0 +1,6 @@
+data_path: /home/joe/git/visual_genome/im2p
+Number of examples: 14575
+train: 100%|████████████████████████████| 14575/14575 [00:06<00:00, 2122.45it/s]
+filter out 0 images.
+remaining 29150 iamges for train set
+wrote gt roidb to /home/joe/git/visual_genome/im2p/train_gt_roidb.pkl
